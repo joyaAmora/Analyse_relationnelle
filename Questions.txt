@@ -1,0 +1,1 @@
+Est-ce que ce type de méthode est facilement adaptable ou mixable avec les autres?

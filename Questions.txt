@@ -1,1 +1,5 @@
 Est-ce que ce type de méthode est facilement adaptable ou mixable avec les autres?
+
+Quel risque principal peut être causé par un changement de developpement à mi-projet ?
+
+Est-il possible d'implanter le kanban dans une chaine de production déjà active ?
